@@ -197,15 +197,7 @@ python manage.py runserver
 
 ---
 
-## Next Step
 
-The next step after this project is **Django REST Framework**, starting with:
-
-* Serializers
-* APIViews / ViewSets
-* Token-based authentication
-
----
 
 
 
